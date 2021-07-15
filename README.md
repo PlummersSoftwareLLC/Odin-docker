@@ -1,6 +1,6 @@
 # Odin in Docker
 
-This repository contains a Dockerfile with which an Uuntu image can be built that has Odin installed. 
+This repository contains a Dockerfile with which an Ubuntu image can be built that has Odin installed. 
 It is published on Docker Hub as [primeimages/odin](https://hub.docker.com/repository/docker/primeimages/odin).
 
 Currently, it is based on:
