@@ -5,5 +5,5 @@ It is published on Docker Hub as [primeimages/odin](https://hub.docker.com/r/pri
 
 Currently, it is based on:
 
-* [Ubuntu 22.04 LTS](https://releases.ubuntu.com/22.04/)
-* [Odin version dev-2024-02](https://github.com/odin-lang/Odin)
+* [Ubuntu 24.04 LTS](https://releases.ubuntu.com/24.04/)
+* [Odin version dev-2025-12](https://github.com/odin-lang/Odin)
